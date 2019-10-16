@@ -1,0 +1,36 @@
+body{
+    background-color: lavenderblush;
+}
+
+h1{
+    font-family: Broadway;
+    color: rebeccapurple;
+}
+
+table, th, td{
+    border: 0.5px solid black;
+}
+
+thead{
+    font-family: "Jokerman";
+}
+
+p{
+    margin: 5px 0px;
+}
+
+.info1{
+    color: deeppink;
+}
+
+.info2{
+    font-family: "Comic Sans MS";
+}
+
+.planets1{
+    color: royalblue;
+}
+
+.planets2{
+    color: deepskyblue;
+}
