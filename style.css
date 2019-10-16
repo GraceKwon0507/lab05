@@ -21,6 +21,7 @@ p{
 
 .info1{
     color: deeppink;
+    row-span: 2;
 }
 
 .info2{
@@ -29,6 +30,7 @@ p{
 
 .planets1{
     color: royalblue;
+    column-span: 4;
 }
 
 .planets2{
